@@ -1,0 +1,3 @@
+example/microservice/HelloWorldService/HelloWorldWrapper.class
+example/microservice/HelloWorldService/HelloWorldRESTController.class
+example/microservice/HelloWorldService/HelloWorldServiceApplication.class
